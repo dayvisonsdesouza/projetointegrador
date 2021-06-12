@@ -1,0 +1,24 @@
+{
+  "laboratorio": [
+    {
+      "id": 1,
+      "laboratorio": "Lapon"
+    },
+    {
+      "id": 2,
+      "laboratorio": "Cimed"
+    }
+  ],
+  "vendas": [
+    {
+      "id": 1,
+      "nome": "David",
+      "price": "8000,00"
+    },
+    {
+      "id": 2,
+      "nome": "Dayvison",
+      "price": "1800,00"
+    }
+  ]
+}

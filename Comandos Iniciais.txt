@@ -1,0 +1,9 @@
+Para abrir a aplicação:
+
+1. Abra um terminal, entre na pasta de back-end e execute o seguinte comando: 
+json-server --watch db.json --port 3000
+
+2. Em outro terminal, digite o seguinte comando:
+npm start
+ou
+yarn start
